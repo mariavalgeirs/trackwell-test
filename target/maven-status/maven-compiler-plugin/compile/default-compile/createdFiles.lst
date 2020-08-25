@@ -1,0 +1,9 @@
+trackwell\interview\test\model\VesselInput.class
+trackwell\interview\test\InterviewTestApplication.class
+trackwell\interview\test\controller\VesselController.class
+trackwell\interview\test\helpers\UnitHelper.class
+trackwell\interview\test\model\Position.class
+trackwell\interview\test\errorhandling\ValidationErrorBuilder.class
+trackwell\interview\test\errorhandling\ValidationError.class
+trackwell\interview\test\model\Vessel.class
+trackwell\interview\test\model\VesselOutput.class
